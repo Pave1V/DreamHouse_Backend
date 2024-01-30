@@ -1,0 +1,10 @@
+cloudinary
+Django
+django-cors-headers
+django-filter
+djangorestframework
+gunicorn
+dj_database_url
+whitenoise
+psycopg2
+psycopg
